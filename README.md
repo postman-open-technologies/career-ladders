@@ -16,9 +16,15 @@ At Principal and beyond, you are trying to help others be the best that they can
 
 ## Based upon 
 [Sarah Drasner's Career Ladders](https://career-ladders.dev/)
+
 [The Importance of Career Laddering](https://css-tricks.com/the-importance-of-career-laddering/)
+
 [Technical Program Manager Career Path](https://www.mariogerard.com/technical-program-manager-career-path/)
+
 [Technical Program Manager](https://www.linkedin.com/pulse/technical-program-manager-vraj-shroff/)
+
 [Engineering Ladders](http://www.engineeringladders.com/)
+
 [Defining a career path for Developer Relations](https://slack.engineering/defining-a-career-path-for-developer-relations/)
+
 [What is Open Source Triage](https://osiolabs.com/blog/what-is-open-source-triage)
