@@ -1,7 +1,7 @@
-# Career Ladders we use at Postman
+# Career Ladders we use at the OSPO (Open Source Program Office)
 A snapshot of career ladders used at Postman Open Tech and the OSPO.
 
-## tl;dr
+## About
 
 The Career Ladder system is a model to provide clarity to employees on what is expected and where they are in a level approach to skills and responsibilities required for a certain role. It’s about the stages of your career and how to step from one stage to the next. 
 
