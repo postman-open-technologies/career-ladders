@@ -7,7 +7,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: actions/career-ladders@v1
+        uses: career-ladders/action@v1
         with:
           who-to-greet: 'Ventura, the Pentapus'
       # Use the output from the `hello` step
