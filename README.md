@@ -30,3 +30,27 @@ At Principal and beyond, you are trying to help others be the best that they can
 [Defining a career path for Developer Relations](https://slack.engineering/defining-a-career-path-for-developer-relations/)
 
 [What is Open Source Triage](https://osiolabs.com/blog/what-is-open-source-triage)
+
+
+# Hello world docker action
+
+This action prints "Hello World" or "Hello" + the name of a person to 
+greet to the log.
+
+## Inputs
+
+## `who-to-greet`
+
+**Required** The name of the person to greet. Default `"World"`.
+
+## Outputs
+
+## `time`
+
+The time we greeted you.
+
+## Example usage
+
+uses: actions/hello-world-docker-action@v2
+with:
+  who-to-greet: 'Mona the Octocat'
