@@ -1,5 +1,5 @@
 # Career Ladders we use at the OSPO (Open Source Program Office)
-A snapshot of career ladders used at Postman Open Tech and the OSPO.
+A snapshot of career ladders used at Postman Open Technologies and the OSPO.
 
 ## About
 
